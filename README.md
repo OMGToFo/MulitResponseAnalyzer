@@ -4,3 +4,6 @@ MulitResponseAnalyzer is a very simple app that let's you upload an excel file c
 - optionally choose brak variables (men/women,..)
 - optionally choose a filter variable (for example drving licence yes/no)
   and the app calculates the % of the mentions in all columns o the multiresponse set for aech choosen category
+
+  
+demo app: https://simplemultiresponseanalyzer.streamlit.app/
